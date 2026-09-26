@@ -2,7 +2,11 @@
 用于移除/添加win小箭头的脚本。
 
 # Remove
-Run `去除快捷方式小箭头.bat`
+Run `RemoveShortcutArrow.bat`
+or
+Use cmd run `powershell "irm https://raw.githubusercontent.com/SouthStar60/remove-add-the-small-arrow-on-Windows-shortcuts/refs/heads/main/RemoveShortcutArrow.bat | cmd"`
 
 # Add
-Run `恢复快捷方式小箭头.bat`
+Run `RestoreShortcutArrow.bat`
+or
+Use cmd run `powershell "irm https://raw.githubusercontent.com/SouthStar60/remove-add-the-small-arrow-on-Windows-shortcuts/refs/heads/main/RestoreShortcutArrow.bat | cmd"`
